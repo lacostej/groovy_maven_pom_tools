@@ -38,6 +38,7 @@
     <finalName/>
     <extensions/>
     <resources/>
+    <testResources/>
     <pluginManagement/>
     <plugins>
       <plugin>
