@@ -54,7 +54,9 @@
     <dependency>
       <groupId/>
       <artifactId/>
+      <classifier/>
       <version/>
+      <scope/>
       <exclusions>
         <exclusion>
           <groupId/>
