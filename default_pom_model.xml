@@ -57,8 +57,8 @@
       <version/>
       <exclusions>
         <exclusion>
-          <artifactId/>
           <groupId/>
+          <artifactId/>
         </exclusion>
       </exclusions>
     </dependency>
