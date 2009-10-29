@@ -1,0 +1,3 @@
+[submodule "groovy_xml_tools"]
+	path = groovy_xml_tools
+	url = git@github.com:lacostej/groovy_xml_tools.git

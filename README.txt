@@ -1,6 +1,6 @@
-A set of bash and groovy scripts used to clean up a large number of POMs.
+A set of bash and groovy scripts used to clean up a large number of maven POMs.
 
-Based on groovy-xml-tools [1]
+Based on groovy_xml_tools [1]
 
 Features
 * reorder a POM based on a model
@@ -15,4 +15,4 @@ To get started:
 
 
 
-[1] http://github.com/lacostej/groovy-xml-tools
+[1] http://github.com/lacostej/groovy_xml_tools
