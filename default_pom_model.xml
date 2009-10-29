@@ -1,0 +1,78 @@
+<!-- an example of a full POM -->
+<project>
+  <modelVersion/>
+  <parent>
+    <groupId/>
+    <artifactId/>
+    <version/>
+  </parent>
+  <groupId/>
+  <artifactId/>
+  <packaging/>
+  <name/>
+  <version/>
+  <description/>
+
+  <organization>
+    <name/>
+    <url/>
+  </organization>
+
+  <scm>
+    <connection/>
+    <developerConnection/>
+    <url/>
+  </scm>
+
+  <issueManagement>
+    <system/>
+    <url/>
+  </issueManagement>
+
+  <ciManagement/>
+
+  <dependencyManagement/>
+
+  <build>
+    <finalName/>
+    <extensions/>
+    <resources/>
+    <pluginManagement/>
+    <plugins>
+      <plugin>
+        <groupId/>
+        <artifactId/>
+        <version/>
+        <configuration/>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId/>
+      <artifactId/>
+      <version/>
+      <exclusions>
+        <exclusion>
+          <artifactId/>
+          <groupId/>
+        </exclusion>
+      </exclusions>
+    </dependency>
+  </dependencies>
+
+  <reporting/>
+
+  <repositories/>
+  <pluginRepositories/>
+  <distributionManagement>
+    <repository/>
+    <snapshotRepository/>
+    <site/>
+  </distributionManagement>
+
+  <properties/>
+
+  <profiles/>
+</project>
