@@ -26,5 +26,6 @@ cd $dir
 
 svn status
 
-svncommit "applied POM transform $transform_script"
+script_name=`basename $transform_script`
+svncommit "applied POM transform $script_name"
 
