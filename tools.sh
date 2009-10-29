@@ -1,4 +1,9 @@
-export GROOVY_XML_TOOLS_HOME=/home/jerome/Code/Customers/Me/groovy_xml_tools.git
+
+install_dir=`dirname $0`
+export GROOVY_XML_TOOLS_HOME=$install_dir/groovy_xml_tools
+
+# override if you want
+#export GROOVY_XML_TOOLS_HOME=/home/jerome/Code/Customers/Me/groovy_xml_tools.git
 
 export CLASSPATH=$GROOVY_XML_TOOLS_HOME:$PATH
 
