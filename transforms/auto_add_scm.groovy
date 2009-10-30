@@ -14,7 +14,7 @@ def get_svn_url() {
 }
 
 
-def svn_url = get_svn_url()
+def svn_url = 'scm:svn:' + get_svn_url()
 
 def scm = root.scm[0]
 
