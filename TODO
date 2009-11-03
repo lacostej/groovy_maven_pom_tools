@@ -1,0 +1,4 @@
+* BUG: comments aren't kept in the proper order when comments are written after the node. E.g.
+  <node>value</node> <!-- this comments the previous node -->
+* transforms artifact_relocates should use a property file
+* console to script multiple transforms and reduce startup
