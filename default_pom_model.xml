@@ -11,6 +11,7 @@
   <packaging/>
   <name/>
   <version/>
+  <inceptionYear/>
   <description/>
   <url/>
 
@@ -33,6 +34,8 @@
   <ciManagement/>
 
   <dependencyManagement/>
+
+  <modules/>
 
   <build>
     <finalName/>
