@@ -14,11 +14,16 @@
   <inceptionYear/>
   <description/>
   <url/>
+  <licenses/>
 
   <organization>
     <name/>
     <url/>
   </organization>
+
+  <developers/>
+  <contributors/>
+  <mailingLists/>
 
   <scm>
     <connection/>
